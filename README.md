@@ -12,7 +12,6 @@ I plan to explore various Real Time Communication offerings and build demo apps 
 
 [:heart: Sponsor](https://dashboard.flutterwave.com/donate/9oiquwbuo2ml)
 
-
 ## Project Setup
 
 1. Clone the repository.<br/>
